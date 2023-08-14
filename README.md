@@ -2,7 +2,7 @@
 # This is my home lab where I exploit Metasploitable 2 a vulnerable machine using Parrot OS made by SourceForge.
 
 In this step I'm going to add this account to sudoers to execute commands as root
-![Screenshot 2023-08-13 195559](https://github.com/ARG1509/Home_lab-1/assets/115385507/2a2a6fe6-5a31-4668-a108-8471129a6dfe)
+[Screenshot 2023-08-13 195559](https://github.com/ARG1509/Home_lab-1/assets/115385507/2a2a6fe6-5a31-4668-a108-8471129a6dfe)
 
 
 
