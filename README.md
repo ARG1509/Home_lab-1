@@ -4,7 +4,7 @@
 In this step I'm going to add this account to sudoers to execute commands as root
 ![Screenshot 2023-08-13 195424](https://github.com/ARG1509/Home_lab-1/assets/115385507/189dc0a5-609d-443f-bf9b-2fc1e48e2c00)
 
-I'm going to add myhomelab account under "# User privilege specification" as "myhomelab ALL=(ALL:ALL) ALL" after typing it I hit CTRL + X and ENTER to save and exit.
+I'm going to add myhomelab account under "# User privilege specification" as "myhomelab ALL=(ALL:ALL) ALL" after typing it I use CTRL + X and ENTER to save and exit.
 ![Screenshot 2023-08-13 195641](https://github.com/ARG1509/Home_lab-1/assets/115385507/7ca0044a-3506-4dd8-96a1-3d75f0102c0d)
 
 Then do a "sudo apt update" command to update the permissions.
