@@ -7,7 +7,7 @@ In this step I'm going to add this account to sudoers to execute commands as roo
 
 
 I'm going to add myhomelab account under "# User privilege specification" as "myhomelab ALL=(ALL:ALL) ALL" after typing it I use CTRL + X and ENTER to save and exit.
-[Screenshot 2023-08-13 195641](https://github.com/ARG1509/Home_lab-1/assets/115385507/b00cceab-36a7-4d86-8caa-ae76cab14c7f)
+![Screenshot 2023-08-13 195641](https://github.com/ARG1509/Home_lab-1/assets/115385507/b00cceab-36a7-4d86-8caa-ae76cab14c7f)
 
 
 
